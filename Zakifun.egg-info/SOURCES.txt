@@ -1,0 +1,8 @@
+README.md
+setup.py
+Zakifun/__init__.py
+Zakifun.egg-info/PKG-INFO
+Zakifun.egg-info/SOURCES.txt
+Zakifun.egg-info/dependency_links.txt
+Zakifun.egg-info/not-zip-safe
+Zakifun.egg-info/top_level.txt
