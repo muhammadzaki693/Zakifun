@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+Zakifun/__init__.py
+Zakifun_zakirhamadan53.egg-info/PKG-INFO
+Zakifun_zakirhamadan53.egg-info/SOURCES.txt
+Zakifun_zakirhamadan53.egg-info/dependency_links.txt
+Zakifun_zakirhamadan53.egg-info/top_level.txt

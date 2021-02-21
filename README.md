@@ -1,8 +1,9 @@
 # Zakifun
-public package
-# instalation
-```py
-import Zakifun
+a small package
+# install
 
-Zakifun.test()
 ```
+pip install Zakifun
+```
+
+and import the name package
